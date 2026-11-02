@@ -1,4 +1,4 @@
-# Kalshi Calibration Study
+# Kalshi calibration study
 
 A prediction market is calibrated if its prices match how often things happen: a contract at seventy cents
 should pay out about seventy percent of the time. Unlike almost any other claim in finance, you can check
